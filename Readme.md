@@ -1,4 +1,4 @@
-# Project Description: NetTerminal - Secure Remote Server Management
+# NetTerminal - Secure Remote Server Management
 
 NetTerminal is a powerful and secure cross-platform application designed to simplify and enhance the management of remote servers and devices. With its intuitive interface and robust features, NetTerminal offers a seamless experience for securely accessing and controlling servers using various protocols like SSH, Telnet, and more.
 
